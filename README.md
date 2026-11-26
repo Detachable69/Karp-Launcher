@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/logo.png" alt="Karp Launcher logo: a letter K made of a white stem and a koi" width="140"></p>
+<p align="center"><img src="docs/karp-k-logo.png" alt="Karp Launcher logo: a letter K made of a white stem and a koi" width="140"></p>
 
 # Karp Launcher
 
@@ -6,7 +6,7 @@ A fast, tidy Minecraft launcher and mod manager, built in Rust.
 
 **Status:** in testing. Test builds for Windows are going out to a small group of testers; the code will be published here once the core is stable. Found a problem in a test build? Please [open an issue](../../issues).
 
-![My modpacks, in the Neon Coast theme](docs/home.png)
+![My modpacks, in the Neon Coast theme](docs/screenshot-home.png)
 
 ## Why
 
@@ -34,7 +34,7 @@ Existing mod platforms and launchers are slow and cluttered. This project aims t
 - Host a server for friends from the app: Vanilla, Fabric, Quilt, NeoForge or Forge, made from scratch, from one of your modpacks, or straight from a Modrinth modpack
 - Console, who's online, one-click operator / whitelist / kick, and world backups on a timer or when the server stops
 
-![An open server](docs/server.png)
+![An open server](docs/screenshot-server.png)
 
 **Looks and extras**
 - **Themes:** fourteen built-in looks with animated backgrounds and frosted panels, plus your own, shareable as `.karptheme` files
@@ -42,7 +42,7 @@ Existing mod platforms and launchers are slow and cluttered. This project aims t
 - **Discord status**, disk usage, shared game settings (FOV, key binds and more, set once for every modpack)
 - **Fast:** parallel, checksum-verified downloads; nothing already on disk is downloaded again
 
-![The Themes page](docs/themes.png)
+![The Themes page](docs/screenshot-themes.png)
 
 ## Progress
 
